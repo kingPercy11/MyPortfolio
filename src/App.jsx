@@ -123,7 +123,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <p>© 2023 Pranjal Chaurasia. All rights reserved.</p>
+        <p>© 2024 Pranjal Chaurasia. All rights reserved.</p>
       </footer>
     </div>
   );
