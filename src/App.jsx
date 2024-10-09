@@ -21,9 +21,9 @@ function App() {
             <p>
               Hello! I'm Pranjal Chaurasia, a passionate developer with a keen interest in creating elegant solutions to complex problems. I specialize in building web applications using technologies such as React, Node.js, and Python.
               <br /><br />
-              With a background in software engineering and a passion for coding, I aim to develop efficient and user-friendly applications. I'm always looking to enhance my skills and work on challenging projects that push the boundaries of innovation.
+              I am currently pursuing a B.TECH degree in software engineering and a passion for coding, I aim to develop efficient and user-friendly applications. I'm always looking to enhance my skills and work on challenging projects pushing innovation's boundaries.
               <br /><br />
-              In my free time, I contribute to open-source projects and love to engage in community events to share knowledge and collaborate with like-minded developers.
+              I have some experience in computer vision and algorithm development.
             </p>
           </div>
         </div>
